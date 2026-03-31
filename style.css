@@ -1,0 +1,199 @@
+/* Colors and fonts */
+
+body {
+
+             background-color: #9370DB;
+
+             color: #696969;
+
+             font-family: Helvetica;
+
+             font-size: 16px;
+
+             font-weight: lighter;
+
+}
+
+ 
+
+h1, h2, h3 {
+
+             font-family: "Roboto", sans-serif;
+
+}
+
+ 
+
+h1 {
+
+             color: #696969;
+
+             font-size: 29px;
+
+             font-weight: 800;
+
+}
+
+ 
+
+h2 {
+
+             color: red;
+
+             font-size: 22px;
+
+             font-weight: border-radius;
+
+             font-weight: 450;
+
+}
+
+ 
+
+ 
+
+a {
+
+             font-family: 'Roboto', sans-serif;
+
+             text-decoration: none;
+
+             color: #696969 ;
+
+             font-weight: 500;
+
+             font-size: 14Px;
+
+}
+
+ 
+
+a:hover {
+
+             color: blanchedalmond;
+
+}
+
+ 
+
+img {
+
+             width: 110px;
+
+             height: auto;
+
+}
+
+ 
+
+ 
+
+ 
+
+ 
+
+/* Custom design with class */
+
+ 
+
+.container {
+
+             width: 700px;
+
+             margin: 40px auto;
+
+}
+
+ 
+
+.card-white {
+
+ 
+
+             background-color: whitesmoke;
+
+             padding: 25px;
+
+             box-shadow: 0 px 20 px 40 px rgba(0, 0, 0, 0.1);
+
+             border-radius: 5px;
+
+             margin: 20px 0px;
+
+             text-align: center;
+
+}
+
+ 
+
+.img-circle {
+
+             border-radius: 60%;
+
+}
+
+ 
+
+.btn-blue {
+
+             background-color: #696969;
+
+             color: white;
+
+             padding: 12px 17px;
+
+             border-radius: 5px;
+
+}
+
+ 
+
+.btn-blue:hover {
+
+             background-color: black;
+
+             color: white;
+
+}
+
+ 
+
+.list-inline {
+
+             list-style: none;
+
+             padding-left: 0px;
+
+}
+
+ 
+
+.list-inline li {
+
+             display: inline;
+
+             padding: 10px;
+
+}
+
+ 
+
+
+ 
+
+.list-inline i:hover {
+
+             color: darkred;
+
+}
+.list-inline i{
+     font-size: 40px;
+}
+
+ 
+
+#Introduction p {
+
+             margin-bottom: 50px;
+
+}
